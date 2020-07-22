@@ -6,7 +6,7 @@ Can only be run in python3
 pkg update && pkg upgrade
 pkg install python git
 pip install requests futures bs4
-git clone https://github.com/dwihadiwahono1/Moontonchecker
+git clone https://github.com/MrColt-CSI/Montoonchecker
 cd MoontonChecker
 python moonton.py
 ```
