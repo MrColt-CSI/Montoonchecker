@@ -8,8 +8,9 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : Mr.Colt                                  #                
+# Author         : Mr.Colt                                 #                
 # Python version : 3.7++                                   #
+# PeRK0nT0l@n
 ############################################################
 
 import os, sys, hashlib, json, random, re
