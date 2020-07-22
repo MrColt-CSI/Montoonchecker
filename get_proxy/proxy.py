@@ -10,6 +10,7 @@
 # File           : proxy.py                                #
 # Author         : Mr.Colt                                 #  
 # Python version : 3.7++                                   #
+# PeRK0nT0l@n
 ############################################################
 
 import requests, os, shutil
